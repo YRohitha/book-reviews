@@ -1,0 +1,4 @@
+[
+  {"from": "--border-radius", "to": "--border-radius" },
+  {"from": "--box-shadow-light", "to": "--box-shadow-light" },
+]
